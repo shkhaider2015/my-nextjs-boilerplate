@@ -1,0 +1,6 @@
+//DATABASE 
+Add database in .env file
+
+
+// PRISMA 
+npx init prisma
