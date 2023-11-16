@@ -1,5 +1,6 @@
 //DATABASE 
 Add database in .env file
+npx prisma migrate dev
 
 
 // PRISMA 

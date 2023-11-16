@@ -21,4 +21,7 @@ model User {
   country String?
   street String?
   image_url String?
+  emailVerified DateTime?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }
