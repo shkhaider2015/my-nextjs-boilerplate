@@ -15,7 +15,8 @@
     "next-auth": "^4.24.5",
     "object-to-formdata": "^4.5.1",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-hook-form": "^7.48.2"
   },
   "devDependencies": {
     "@types/crypto-js": "^4.2.1",
